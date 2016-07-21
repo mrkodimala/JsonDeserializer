@@ -1,0 +1,105 @@
+{
+    "firstName": "Peri",
+    "lastName": "B",
+    "height": 5.10,
+     "age": 44,
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "212 555-1234" },
+        {  "type": "fax",
+            "number": "646 555-4567" }   
+     ]
+	"city":"hyderabad"
+}
+{
+    "firstName": "Mahendar",
+    "lastName": "Kodimala",
+    "height": 5.7,
+     "age": 22,
+	"city"="hyderabad",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "9959731730" },
+        {  "type": "fax",
+            "number": "646 555-4567" }   
+     ]
+}  
+{
+    "firstName": "sachin",
+    "lastName": "tendulkar",
+    "height": 5,
+     "age": 40,
+	"city":"bangalore",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "212 556-1234" },
+        {  "type": "fax",
+            "number": "626 555-4567" }   
+     ]
+}  
+{
+    "firstName": "abc",
+    "lastName": "def",
+    "height": 5.10,
+     "age": 44,
+"city":"mumbai",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "232 555-1234" },
+        {  "type": "fax",
+            "number": "626 555-4567" }   
+     ]
+}  
+{
+    "firstName": "Peridsag",
+    "lastName": "Bcb",
+    "height": 5.10,
+     "age": 44,
+"city":"mumbai",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "312 555-1234" },
+        {  "type": "fax",
+            "number": "656 555-4567" }   
+     ]
+}  
+{
+    "firstName": "Periwre",
+    "lastName": "Bfjd",
+    "height": 5.10,
+     "age": 44,
+"city":"pune",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "212 554-1234" },
+        {  "type": "fax",
+            "number": "646 555-4867" }   
+     ]
+}  
+{
+    "firstName": "Pdtseri",
+    "lastName": "Bsfh",
+    "height": 5.10,
+     "age": 44,
+"city":"hyderabad",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "212 595-1234" },
+        {  "type": "fax",
+            "number": "646 765-4567" }   
+     ]
+}  
+{
+    "firstName": "Pertiyi",
+    "lastName": "cgnB",
+    "height": 5.10,
+     "age": 44,
+"city":"hyderabad",
+"phoneNumbers": [
+        {  "type": "home",
+            "number": "212 595-1234" },
+        {  "type": "fax",
+            "number": "646 555-4667" }   
+     ]
+}  
+  
